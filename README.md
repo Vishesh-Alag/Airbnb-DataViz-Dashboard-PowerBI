@@ -69,6 +69,9 @@ The raw Airbnb listings datasets were cleaned and enhanced in **Google Colab**, 
 
 ## 📊 Dashboard Structure in Power BI
 
+Dashboard contains button also which act as a navigation between different pages like overview, property analysis, hosting analysis and pricing analysis.
+you can use it by clciking CTRIL + clicking on the button of that page you want to navigate.
+
 The dashboard is divided into **4 main sections**:
 
 ### 1️⃣ Overview
@@ -144,7 +147,7 @@ If you'd like to access the full transformed dataset:
 1. Open the `.pbix` file in Power BI Desktop
 2. Go to the "Data" view (left sidebar)
 3. Right-click the table → Export data or choose Copy Table
-4. Save as CSV (`final_powerbi_dataset.csv`)
+4. Save as CSV or Excel workbook(`final_powerbi_dataset.csv`) or (`final_powerbi_dataset.xlsx`)
 
 This allows you to explore fields like:
 - `minimum_nights (bins)`
