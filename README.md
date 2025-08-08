@@ -178,6 +178,48 @@ This allows you to explore fields like:
 
 ---
 
+# Airbnb Data Analysis - Chicago vs New Orleans
+
+## 📈 Summary of Findings
+
+These findings are based on default views of the Power BI dashboard without applying any slicers or filters. They represent general trends across both cities, but further exploration using filters (e.g., by room type, host type, city, or price range) may reveal deeper insights.
+This Airbnb data visualization project provides a comparative analysis of Chicago and New Orleans, offering insights into listing trends, pricing strategies, and host behavior. Below are the key takeaways from the Power BI dashboard:
+
+## 🗺️ Overview Insights
+
+- A total of **11,696 listings** were analyzed: Chicago had around **6,100 listings** and New Orleans around **5,600**.
+- The two cities combined had over **880,000 reviews**, showing strong guest engagement.
+- The average price across all listings was approximately **$286**, with monthly fluctuations observed in both cities.
+- The majority of listings (over **83%**) were **Entire home/apartment**, followed by Private rooms and Hotel rooms.
+- Review volume peaked in **summer months**, especially from **May to August**, aligning with tourism trends.
+- Around **68% of hosts** had multiple listings, indicating a strong presence of commercial hosts or professional property managers.
+
+## 🏘️ Property Analysis
+
+- The listing distribution was nearly equal between both cities: **Chicago (52.4%)**, **New Orleans (47.5%)**.
+- Key neighborhoods like **West Town (Chicago)** and **Treme-Lafitte (New Orleans)** had high listing concentrations.
+- The average availability was highest for **Hotel rooms (237 days)**, and lowest for **Shared rooms (170 days)**.
+- Visuals highlighted a strong correlation between neighborhood and property type, with **"Entire homes"** dominating across most areas.
+
+## 💰 Pricing Analysis
+
+- **Hotel rooms** were the most expensive (**avg $414**), followed by **Entire homes ($315)** and **Private rooms ($127)**.
+- Properties with recent reviews were priced lower on average **($275)** than those without recent reviews **($311)**, indicating a possible link between affordability and review frequency.
+- **Top 10 most expensive neighborhoods** were mostly from **New Orleans**, with average prices exceeding **$1,000**.
+- A **decomposition tree** revealed pricing differences based on host type, city, and room type, emphasizing how multiple factors influence rates.
+- Price bands showed that the majority of listings fall under the **Low to Medium price category**.
+
+## 👤 Host Analysis
+
+- **Multi-listing hosts** made up nearly **68% of total listings** and had higher average pricing **($263)** compared to **Single-listing hosts ($234)**.
+- Multi-listing hosts also tended to own more **Hotel and Entire home/apt properties**, suggesting a professional or commercial model.
+- Despite pricing differences, the **average review rate per month** was similar for both host types (around **1.8 reviews/month**).
+- **Availability** was also higher among multi-listing hosts **(214 days)** than single-listing hosts **(174 days)**, indicating more actively managed properties.
+
+## Conclusion
+
+These insights enable Airbnb stakeholders to make informed decisions around pricing strategies, neighborhood targeting, and host performance in two vibrant and highly competitive urban markets.
+
 ## 📌 Tags
 
 `#PowerBI` `#Airbnb` `#EDA` `#Python` `#GoogleColab` `#DAX` `#DataVisualization` `#CapstoneProject` `#DashboardDesign` `#FeatureEngineering`
