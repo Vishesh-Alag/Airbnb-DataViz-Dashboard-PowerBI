@@ -107,19 +107,30 @@ The dashboard is divided into **4 main sections**:
 - Power BI Desktop installed
 - Google Colab access (for Python preprocessing)
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/Airbnb-PowerBI-Dashboard.git
-```
+### 🔍 1. Explore the Power BI Dashboard
 
-### 2. Run Python Script on Google Colab
+You can directly download and open the Power BI dashboard file to explore all visuals and filters:
+
+📥 Download: Airbnb_Dashboard.pbix
+
+    🧰 Open it using Power BI Desktop (available for free on Windows).
+
+Once opened, you can:
+
+    View all 4 dashboard pages (Overview, Property, Pricing, Host)
+
+    Use slicers to filter by city, host type, room type, and price
+
+    Explore DAX measures, calculated fields, and transformed data in the “Data” view
+
+### 2. Run Python Script on Google Colab (Optional)
 Open the notebook here:
-📓 [Colab Notebook](https://colab.research.google.com/github/yourusername/Airbnb-PowerBI-Dashboard/blob/main/notebooks/airbnb_cleaning_pipeline.ipynb)
+📓 [Colab Notebook](https://github.com/Vishesh-Alag/Airbnb-DataViz-Dashboard-PowerBI/blob/main/Python_Airbnb_Dashboard.ipynb)
 - Upload both raw CSV files (`airbnb_chicago_listings.csv`, `airbnb_new_orleans_listings.csv`)
 - Run the notebook to generate `cleaned_airbnb_combined.csv`
 
 ### 3. Open Power BI Dashboard
-- Launch `airbnb_dashboard.pbix` in Power BI Desktop
+- Launch `Airbnb.pbix` in Power BI Desktop
 - All visuals and filters will be loaded automatically
 - Use slicers for city, room type, host type, and price category
 
@@ -168,4 +179,4 @@ This allows you to explore fields like:
 
 **Vishesh Alag**  
 Aspiring Data Analyst / Data Scientist  
-📫 [LinkedIn](https://linkedin.com/in/yourusername)
+📫 [LinkedIn](https://www.linkedin.com/in/alaghvishesh03/)
