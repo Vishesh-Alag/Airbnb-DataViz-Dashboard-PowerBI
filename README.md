@@ -46,7 +46,7 @@ The raw Airbnb listings datasets were cleaned and enhanced in **Google Colab**, 
 ✅ Output: `cleaned_airbnb_combined.csv`
 
 📓 View the full Python code here:  
-[📎 Google Colab Notebook](https://colab.research.google.com/github/yourusername/Airbnb-PowerBI-Dashboard/blob/main/notebooks/airbnb_cleaning_pipeline.ipynb)
+[📎Google Colab Notebook](https://github.com/Vishesh-Alag/Airbnb-DataViz-Dashboard-PowerBI/blob/main/Python_Airbnb_Dashboard.ipynb)
 
 ---
 
