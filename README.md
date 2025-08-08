@@ -70,7 +70,7 @@ The raw Airbnb listings datasets were cleaned and enhanced in **Google Colab**, 
 ## 📊 Dashboard Structure in Power BI
 
 Dashboard contains button also which act as a navigation between different pages like overview, property analysis, hosting analysis and pricing analysis.
-you can use it by clciking CTRIL + clicking on the button of that page you want to navigate.
+you can use it by clciking CTRL + clicking on the button of that page you want to navigate.
 
 The dashboard is divided into **4 main sections**:
 
@@ -159,7 +159,8 @@ This allows you to explore fields like:
 
 ## 📷 Dashboard Snapshots
 
-*Add your dashboard screenshots here*
+<img width="1917" height="1021" alt="airbnbdash1" src="https://github.com/user-attachments/assets/fa9f6ec4-3f02-4e26-bbc8-0023da57b5d1" />
+
 
 ---
 
