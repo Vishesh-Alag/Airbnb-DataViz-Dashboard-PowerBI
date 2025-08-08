@@ -160,6 +160,11 @@ This allows you to explore fields like:
 ## 📷 Dashboard Snapshots
 
 <img width="1917" height="1021" alt="airbnbdash1" src="https://github.com/user-attachments/assets/fa9f6ec4-3f02-4e26-bbc8-0023da57b5d1" />
+<img width="1918" height="998" alt="airbnbdash2" src="https://github.com/user-attachments/assets/c0e2c585-e34a-47b8-9b9b-535f75b6289f" />
+<img width="1916" height="1018" alt="airbnbdash3" src="https://github.com/user-attachments/assets/647de22d-2049-43ab-9ef6-5e938cb54e79" />
+<img width="1918" height="1015" alt="airbnbdash4" src="https://github.com/user-attachments/assets/04e7ea4f-984a-4852-8bb6-47f8013d582b" />
+
+
 
 
 ---
